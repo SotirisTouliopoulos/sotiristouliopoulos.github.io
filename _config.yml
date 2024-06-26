@@ -4,6 +4,12 @@ logo: /img/touliopoulos_profil.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
 
-linkedin: https://www.linkedin.com/in/sotiris-touliopoulos-91769920a/
-github: https://github.com/SotirisTouliopoulos
+social_links:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/sotiris-touliopoulos-91769920a/
+    icon: fab fa-linkedin
+  - name: GitHub
+    url: https://github.com/SotirisTouliopoulos
+    icon: fab fa-github
+
 
