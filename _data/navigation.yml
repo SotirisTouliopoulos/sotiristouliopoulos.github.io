@@ -20,8 +20,5 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Resume"
     url: /files/CV2024.pdf
-    
-  #- title: "Guide"
-  #  url: /markdown/
