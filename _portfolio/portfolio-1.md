@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Contributor to Google Summer of Code 2024"
+excerpt: <img src='https://summerofcode.withgoogle.com/assets/media/logo.svg' width="500">
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+During the summer of 2024 I worked as a contributor to dingo,
+a python package that analyzes metabolic networks.
+I expanded dingo by incorporating pre- and post-sampling features.
+You can take a look at the [blog](https://sotiristouliopoulos.github.io/dingo/) 
+created for the presentation of my contribution.
+
+<div style="text-align: center;">
+  <img src="https://geomscale.github.io/assets/images/dingo.jpg" width="300">
+</div>
+
+
