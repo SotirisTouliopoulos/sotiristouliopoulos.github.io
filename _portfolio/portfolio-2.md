@@ -1,8 +1,8 @@
 ---
-title: "RNA expression data analysis tutorial"
+title: "RNA expression data analysis: A tutorial for beginners"
 excerpt: |
-    From counts to volcano plots. A guide to analyze RNA expression data!<br/><br/>
-    <img src='/files/rna-expression-workshop-logo.png' style="position: relative; left: 25px;" width="300">
+    From counts to volcano plots & cluster heatmaps. A guide to analyze RNA expression data!<br/><br/>
+    <img src='/files/rna-expression-workshop-logo.png' style="position: relative; left: 70px;" width="300">
 collection: portfolio
 ---
 

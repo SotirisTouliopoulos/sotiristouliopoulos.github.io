@@ -1,8 +1,8 @@
 ---
-title: "Contributor to Google Summer of Code 2024"
+title: "Contributor to Google Summer of Code 2024 with GeomScale"
 excerpt: |
     An open-source software development internship!<br/><br/>
-    <img src='/files/gsoc-logo.svg' width="600">
+    <img src='/files/gsoc-logo.webp' style="position: relative; left: 60px;" width="300">
 collection: portfolio
 ---
 

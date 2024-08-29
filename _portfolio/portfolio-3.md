@@ -1,8 +1,8 @@
 ---
-title: "Final Year Bachelor Thesis"
+title: "Final Year Bachelor Thesis: Structural & Computational Biology"
 excerpt: |
     Structural and functional implications of atomic density distributions in proteins!<br/><br/>
-    <img src='/files/molecule-logo.png' width="400">
+    <img src='/files/molecule-logo.png' style="position: relative; left: 20px;" width="400">
 collection: portfolio
 ---
 
