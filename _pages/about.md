@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![](/files/rna-expression-workshop-logo.png){: .align-right width="300px"}
+![](/files/computer-dna.png){: .align-right width="300px"}
 
 🎓 I’m a final year undergraduate student at the dept. of Molecular Biology & Genetics.
 

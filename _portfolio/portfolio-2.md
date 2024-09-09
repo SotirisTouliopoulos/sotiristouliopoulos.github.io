@@ -15,6 +15,6 @@ You can find data, code and the complete tutorial in this
 
 <br>
 <div style="text-align: center;">
-  <img src="/files/rna-expression-workshop-logo.png" width="200">
+  <img src="/files/computer-dna.png" width="200">
 </div>
 
