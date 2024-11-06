@@ -10,7 +10,7 @@ redirect_from:
 
 ![](/files/computer-dna.png){: .align-right width="300px"}
 
-🎓 I’m a final year undergraduate student at the dept. of Molecular Biology & Genetics.
+🎓 I'm a Graduate of the Department of Molecular Biology & Genetics, DUTH
 
 🔬 My research interests are focused in analyzing protein structures and omics data!
 
