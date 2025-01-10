@@ -14,7 +14,7 @@ redirect_from:
 
 🔬 My research interests are focused in analyzing protein structures and omics data!
 
-👨🏻‍💻 I’m currently working as a Research Assistant at the DarkMatters group.
+👨🏻‍💻 I’m currently a Research Associate Fellow at the Rega Institute, KU Leuven, Belgium.
 
 🚀 I am also interested in assisting others on their path in the world of bioinformatics!
 
