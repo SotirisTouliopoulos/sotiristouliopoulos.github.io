@@ -196,6 +196,7 @@ collections:
 
 
 # These settings control how pages and collections are included in the site
+# check also navigation.yml for the order of the links in the header
 defaults:
   # _posts
   - scope:
