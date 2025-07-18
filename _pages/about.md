@@ -14,13 +14,18 @@ redirect_from:
 
 🔬 My research interests are focused in analyzing protein structures and omics data!
 
-👨🏻‍💻 I’m currently a Research Associate Fellow at the Rega Institute, KU Leuven, Belgium.
+👨🏻‍💻 I’m currently a MSc Student in Bioinformatics at the Danish Technical University (DTU).
 
 🚀 I am also interested in assisting others on their path in the world of bioinformatics!
 
 
 
 # Selected Experience
+
+## 🧬 Research Associate (Erasmus+ Traineeship) at KU Leuven
+
+I worked as a Research Associate at the Rega Institute, KU Leuven from January to August 2025. 
+I developed a toolkit for Statistical Analysis of Flux Sampling datasets.
 
 ## 🤖 Open Source Contributor
 
@@ -29,6 +34,5 @@ My contribution was to dingo, a python package for metabolic modeling.
 
 ## 📚 Teaching
 
-I have created introductory tutorials for programming and bioinformatics concepts, freely available for everyone interested.
-I have also organized several workshops in Student Conferences oriented in the field on Synthetic, Structural 
-and Computational Biology.
+I have created educational tutorials to introduce programming and core bioinformatics concepts to beginners.
+These tutorials were presented as hands-on workshops in Student Conferences.
