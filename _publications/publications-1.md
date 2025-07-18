@@ -9,7 +9,7 @@ collection: publications
 Research Article available on arXiv!
 
 
-My research article available as an e-print on [arXiv](https://arxiv.org/abs/2505.18566) explores the structural and functional implications of atomic density distributions in proteins!
+This research article available as an e-print on [arXiv](https://arxiv.org/abs/2505.18566) explores the structural and functional implications of atomic density distributions in proteins!
 
 
 <br>
