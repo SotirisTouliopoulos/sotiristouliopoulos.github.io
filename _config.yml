@@ -24,9 +24,9 @@ author:
   avatar           : "https://sotiristouliopoulos.github.io/dingo/img/touliopoulos_profil.jpg"
   name             : "Sotiris Touliopoulos"
   pronouns         : # example: "she/her"  
-  bio              : "BSc in Molecular Biology & Genetics"
-  location         : "Leuven, Belgium"
-  employer         : "Rega Institute, KU Leuven"
+  bio              : "MSc Student in Bioinformatics"
+  location         : "Copenhagen, Denmark"
+  employer         : "Danish Technical University (DTU)"
   uri              : # URL
   email            : #"none@example.org" 
 
@@ -225,14 +225,14 @@ defaults:
       share: true
       comments: true
   # _publications
-  #- scope:
-  #    path: ""
-  #    type: publications
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
