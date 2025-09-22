@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Sotiris Touliopoulos"
+name                     : &name "Sotirios Touliopoulos"
 description              : &description "personal description"
 url                      : https://sotiristouliopoulos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "SotirisTouliopoulos/sotiristouliopoulos.github.io"
 author:
   # Biographic information
   avatar           : "https://sotiristouliopoulos.github.io/dingo/img/touliopoulos_profil.jpg"
-  name             : "Sotiris Touliopoulos"
+  name             : "Sotirios Touliopoulos"
   pronouns         : # example: "she/her"  
   bio              : "MSc Student in Bioinformatics"
   location         : "Copenhagen, Denmark"
-  employer         : "Danish Technical University (DTU)"
+  employer         : "Technical University of Denmark (DTU)"
   uri              : # URL
   email            : #"none@example.org" 
 

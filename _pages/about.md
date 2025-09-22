@@ -14,7 +14,7 @@ redirect_from:
 
 🔬 My research interests are focused in analyzing protein structures and omics data!
 
-👨🏻‍💻 I’m currently a MSc Student in Bioinformatics at the Danish Technical University (DTU).
+👨🏻‍💻 I’m currently a MSc Student in Bioinformatics at the Technical University of Denmark (DTU).
 
 🚀 I am also interested in assisting others on their path in the world of bioinformatics!
 
@@ -29,7 +29,7 @@ I developed a toolkit for Statistical Analysis of Flux Sampling datasets.
 
 ## 🤖 Open Source Contributor
 
-I have completed the Google Summer of Code 2024 program with the GeomScale organization.
+I have completed the Google Summer of Code 2024 and 2025 program with the GeomScale organization.
 My contribution was to dingo, a python package for metabolic modeling.
 
 ## 📚 Teaching
